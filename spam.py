@@ -12,7 +12,7 @@ def autoketik(s):
         
 result = pyfiglet.figlet_format("Spam Whatsapp", font = "3x5")
 print(53*"=")
-autoketik(Fore.RED + result)
+autoketik(Fore.GREEN + result)
 
 print(53*"=")
 autoketik("            Program ini dibuat oleh Fadil           ")
